@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @harnarayans
 - 👀 I’m interested in open source technologies
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on Flutter Projects
+- 💞️ I’m looking to collaborate on architecting serverless solutions on AWS and GCP
 - 📫 Connect with me on Facebook- www.facebook.com/harnarayans
 
 <!---
